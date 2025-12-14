@@ -14,12 +14,17 @@
 }
 
 .about-container img {
-    width: 250px;          /* Adjust size */
+    width: 250px;        
     display: block;
 }
 .about-container table {
-    margin: 20px auto;     /* Centers the table */
+    margin: 20px auto;  
 }
+
+.about-extra {
+  margin-top: 0px;
+}
+
 
 body {
     display: flex;
@@ -58,4 +63,5 @@ body {
     font-family: 'Calibri', sans-serif; 
     text-align: center;
 }
+
 
